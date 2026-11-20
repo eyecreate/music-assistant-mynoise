@@ -1,6 +1,6 @@
 [project]
-name = "community-provider-template"
-version = "0.0.0"
+name = "mynoise"
+version = "1.0.0"
 description = "A community provider for Music Assistant"
 license = "Apache-2.0"
 requires-python = ">=3.14"

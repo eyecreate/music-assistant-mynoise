@@ -1,0 +1,15 @@
+{
+  "type": "music",
+  "domain": "mynoise",
+  "stage": "beta",
+  "name": "myNoise",
+  "description": "Stream the noise machines of myNoise.net as endless, looping soundscapes.",
+  "codeowners": ["@eyecreate"],
+  "provides": ["radio"],
+  "credits": ["Please support myNoise and [donate](https://mynoise.net/donate.php)"],
+  "requirements": [],
+  "documentation": "https://github.com/eyecreate/music-assistant-mynoise#readme",
+  "support_url": "https://github.com/eyecreate/music-assistant-mynoise/issues",
+  "multi_instance": false,
+  "icon": "mdi-waves"
+}
